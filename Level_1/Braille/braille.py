@@ -37,5 +37,3 @@ def solution(s):
         output += lookup[elem]
 
     return output
-
-solution("Braille")
